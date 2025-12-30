@@ -1,0 +1,62 @@
+[
+  {
+    "prompt": "Solve using BODMAS: (14 + 6) / 5",
+    "completion": "Step 1: Brackets → (14 + 6) = 20\nStep 2: Division → 20 / 5 = 4\nFinal Answer: 4"
+  },
+  {
+    "prompt": "Solve using BODMAS: (9^2 - 45) / 6",
+    "completion": "Step 1: Orders → 9^2 = 81\nStep 2: Brackets → (81 - 45) = 36\nStep 3: Division → 36 / 6 = 6\nFinal Answer: 6"
+  },
+  {
+    "prompt": "Solve using BODMAS: ((8 + 2) * 3) - 7",
+    "completion": "Step 1: Brackets → (8 + 2) = 10\nStep 2: Multiply → 10 * 3 = 30\nStep 3: Subtraction → 30 - 7 = 23\nFinal Answer: 23"
+  },
+  {
+    "prompt": "Solve using BODMAS: (24 / (3 + 5)) + 2",
+    "completion": "Step 1: Brackets → (3 + 5) = 8\nStep 2: Division → 24 / 8 = 3\nStep 3: Addition → 3 + 2 = 5\nFinal Answer: 5"
+  },
+  {
+    "prompt": "Solve using BODMAS: (7 * (12 - 8)) + 9",
+    "completion": "Step 1: Brackets → (12 - 8) = 4\nStep 2: Multiply → 7 * 4 = 28\nStep 3: Addition → 28 + 9 = 37\nFinal Answer: 37"
+  },
+  {
+    "prompt": "Solve using BODMAS: (5^2 + (18 / 3))",
+    "completion": "Step 1: Orders → 5^2 = 25\nStep 2: Brackets inner → (18 / 3) = 6\nStep 3: Brackets outer → (25 + 6) = 31\nFinal Answer: 31"
+  },
+  {
+    "prompt": "Solve using BODMAS: ((20 - 4) / (2^2))",
+    "completion": "Step 1: Brackets left → (20 - 4) = 16\nStep 2: Orders → 2^2 = 4\nStep 3: Division → 16 / 4 = 4\nFinal Answer: 4"
+  },
+  {
+    "prompt": "Solve using BODMAS: (36 / (9 - 3)) + 1",
+    "completion": "Step 1: Brackets → (9 - 3) = 6\nStep 2: Division → 36 / 6 = 6\nStep 3: Addition → 6 + 1 = 7\nFinal Answer: 7"
+  },
+  {
+    "prompt": "Solve using BODMAS: ((4 + 6) * (8 - 2))",
+    "completion": "Step 1: Brackets left → (4 + 6) = 10\nStep 2: Brackets right → (8 - 2) = 6\nStep 3: Multiply → 10 * 6 = 60\nFinal Answer: 60"
+  },
+  {
+    "prompt": "Solve using BODMAS: (50 / (5 + 5)) - 2",
+    "completion": "Step 1: Brackets → (5 + 5) = 10\nStep 2: Division → 50 / 10 = 5\nStep 3: Subtraction → 5 - 2 = 3\nFinal Answer: 3"
+  },
+  {
+    "prompt": "Solve using BODMAS: (3^3 + (9 - 4))",
+    "completion": "Step 1: Orders → 3^3 = 27\nStep 2: Brackets inner → (9 - 4) = 5\nStep 3: Brackets outer → (27 + 5) = 32\nFinal Answer: 32"
+  },
+  {
+    "prompt": "Solve using BODMAS: ((18 / 3) + (2^2))",
+    "completion": "Step 1: Brackets left → (18 / 3) = 6\nStep 2: Orders → 2^2 = 4\nStep 3: Brackets outer → (6 + 4) = 10\nFinal Answer: 10"
+  },
+  {
+    "prompt": "Solve using BODMAS: (40 - (12 / (2 + 2)))",
+    "completion": "Step 1: Brackets inner → (2 + 2) = 4\nStep 2: Division inside brackets → 12 / 4 = 3\nStep 3: Brackets outer → (40 - 3) = 37\nFinal Answer: 37"
+  },
+  {
+    "prompt": "Solve using BODMAS: ((7 + 3) * (5 - 2)) / 2",
+    "completion": "Step 1: Brackets left → (7 + 3) = 10\nStep 2: Brackets right → (5 - 2) = 3\nStep 3: Brackets outer → (10 * 3) = 30\nStep 4: Division → 30 / 2 = 15\nFinal Answer: 15"
+  },
+  {
+    "prompt": "Solve using BODMAS: (60 / (2^2 + 4))",
+    "completion": "Step 1: Orders → 2^2 = 4\nStep 2: Brackets → (4 + 4) = 8\nStep 3: Division → 60 / 8 = 7.5\nFinal Answer: 7.5"
+  }
+]
