@@ -37,16 +37,15 @@ The webpage where you set up your OpenAI key is at https://platform.openai.com/a
 You can add your credit balance to OpenAI at Settings > Billing:
 https://platform.openai.com/settings/organization/billing/overview
 
-Part 2- Local Ollama Setup ( if you do not want OpenAI) 
-Download here https://ollama.com/download
-Get the models you need :  ollama pull <model name here>
-Example:  ollama pull qwen3
-
-
-
 Disable the automatic recharge!
 
 4.create a .env file in the llm_course folder and paste the open ai api key inside like this : 
 OPENAI_API_KEY=your_openai_api_key_here
 
 Save the .env file
+
+PART 2- Local Ollama Setup ( if you do not want OpenAI) 
+Download here https://ollama.com/download
+Get the models you need :  ollama pull <model name here>
+Example:  ollama pull qwen3
+
